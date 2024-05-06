@@ -10,4 +10,3 @@
 - 📫 How to reach me **ssss.gladmasy@gmail.com**
 
 - 📄 Know about my experiences [https://pda.104.com.tw/profile/edit?vno=765yhvxsr](https://pda.104.com.tw/profile/edit?vno=765yhvxsr)
-- 
