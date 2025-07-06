@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhang Haoming</h1>
-<h2 align="center">A Laravel backend developer from Taiwan</h2>
+<h2 align="center">A Laravel Backend Developer From Taiwan</h2>
 
 - 🌱 I’m currently learning **Laravel and Vue**
 
