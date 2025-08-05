@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel and Vue**
 
-- 👨‍💻 All of my projects are available at [https://diego09182.github.io/work/#/](https://diego09182.github.io/work/#/)
+- 👨‍💻 All of my projects are available at [https://diego09182.github.io/PersonalWebsite/#/](https://diego09182.github.io/PersonalWebsite/#/)
 
 - 💬 Ask me about **Laravel**
 
