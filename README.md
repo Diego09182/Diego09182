@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm Zhang Haoming</h1>
-<h2 align="center">A Laravel Backend Developer From Taiwan</h2>
+<h1 align="center">Haoming Zhang</h1>
+<h3 align="center">Backend Engineer | Laravel Specialist | API Architecture</h3>
 
-- 🌱 I’m currently learning **Laravel and Vue**
+---
 
-- 👨‍💻 All of my projects are available at [https://diego09182.github.io/PersonalWebsite/#/](https://diego09182.github.io/PersonalWebsite/#/)
+### 👨‍💻 Professional Summary
+Backend-focused developer from Taiwan specializing in Laravel-based systems.
+Experienced in building secure, scalable, and maintainable RESTful APIs.
+Strong emphasis on clean architecture, database optimization, and system stability.
 
-- 💬 Ask me about **Laravel**
+---
 
-- 📫 How to reach me **ssss.gladmasy@gmail.com**
+### ⚙️ Core Skills
+- Laravel (API Development, Authentication, Payment Integration)
+- RESTful API Design
+- Database Design & Performance Optimization
+- Third-party API Integration
+- Git Version Control
 
-- 📄 Know about my experiences [https://pda.104.com.tw/profile/edit?vno=765yhvxsr](https://pda.104.com.tw/profile/edit?vno=765yhvxsr)
+---
+
+### 🌱 Currently Improving
+- Advanced Backend Architecture Patterns
+- High-Concurrency System Design
+- Frontend Integration with Vue
+
+---
+
+### 🚀 Portfolio
+🔗 https://diego09182.github.io/PersonalWebsite/#/
+
+---
+
+### 📫 Contact
+📧 ssss.gladmasy@gmail.com
