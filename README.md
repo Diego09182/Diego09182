@@ -1,5 +1,5 @@
 <h1 align="center">Haoming Zhang</h1>
-<h3 align="center">Backend Engineer | Laravel Specialist | API Architecture</h3>
+<h3 align="center">Backend Engineer | Laravel & RESTful API Developer</h3>
 
 ---
 
@@ -11,9 +11,10 @@ Strong emphasis on clean architecture, database optimization, and system stabili
 ---
 
 ### ⚙️ Core Skills
-- Laravel (API Development, Authentication, Payment Integration)
-- RESTful API Design
-- Database Design & Performance Optimization
+- Laravel
+- RESTful API Development (Authentication, Validation, Error Handling)
+- Relational Database Design (MySQL, Indexing, Query Optimization)
+- Caching Concepts (Redis)
 - Third-party API Integration
 - Git Version Control
 
